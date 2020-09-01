@@ -1,3 +1,6 @@
+
+This project is a frontend for an online shopping page. 
+
 # Stroyka
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
